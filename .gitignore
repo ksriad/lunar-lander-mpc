@@ -1,0 +1,12 @@
+# MATLAB cache and autosaves
+*.asv
+*.autosave
+*.m~
+*.matlab
+matlab_crash_dump.*
+slprj/
+
+# macOS metadata and system files
+.DS_Store
+._*
+__MACOSX/
